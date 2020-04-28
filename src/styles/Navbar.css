@@ -1,0 +1,28 @@
+#navbar-container {
+    width: 100%;
+    background: black;
+    height: 55px;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#navbar-container h1 {
+    display: inline-block;
+    background: black;
+    margin: 0 0 0 15px;
+}
+
+#general-links-container {
+    display: flex;
+    justify-content: space-evenly;
+    width: 600px;
+    background: black;
+    margin: 0 auto;
+}
+
+#general-links-container a {
+    text-decoration: none;
+    background: black;
+}
